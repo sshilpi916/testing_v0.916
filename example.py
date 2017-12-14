@@ -1,5 +1,5 @@
 def reverse_words(s):
-   """
+    """
     Reverses order or words in string s.
     """
     words = s.split()
